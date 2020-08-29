@@ -7,8 +7,8 @@ public class Student {
 	String name;
 	int roll_no;
 	public static void main(String[] args) {
-		Student s=new Student();
-		s.roll_no=2;
-		s.name="John";
+		Student student=new Student();
+		student.roll_no=2;
+		student.name="John";
 	}
 }
